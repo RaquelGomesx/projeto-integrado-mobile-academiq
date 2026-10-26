@@ -2,7 +2,7 @@
 App mobile de gestão de tarefas acadêmicas com notificações inteligentes, planejamento de estudos e integração ao calendário.
 
 ## Equipe
-- Raquel Gomes Silva 
+- Raquel Gomes Silva (Líder)
 - Mayra Lowrrana Amori de Matos Ferreira
 - Nicolly Beatriz Gomes dos Santos
 - Samara Alves Neres
