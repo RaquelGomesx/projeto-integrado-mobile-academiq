@@ -13,3 +13,4 @@ App mobile de gestão de tarefas acadêmicas com notificações inteligentes, pl
 3. `cd projeto-integrado-mobile-academiq/src`
 4. `flutter pub get`
 5. `flutter run`
+   Projeto desenvolvido na disciplina de Projeto Integrado de Desenvolvimento Mobile.
